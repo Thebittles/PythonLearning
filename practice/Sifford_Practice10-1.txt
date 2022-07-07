@@ -1,0 +1,38 @@
+Name: Brittany Sifford
+
+1. What is encapsulation?
+Answer: combining of data and code into an object
+
+
+2. Why should an object’s data attributes be hidden from code
+outside the class?
+
+Answer: Protect data from corruption
+
+
+3. What is the difference between a class and an instance of a
+class?
+
+One is the blueprint, one is the product of the blueprint
+
+4. The following statement calls an object’s method. What is
+the name of the method? What is the name of the variable
+that references the object?
+wallet.get_dollar()
+
+Answer: The name of the object is wallet the method is get_dollar
+
+
+5. When the __init__ method executes, what does the self
+parameter reference?
+
+Answer: The object that the method is to operate on 
+
+6. In a Python class, how do you hide an attribute from code
+outside the class?
+
+Answer: Double underscore
+
+7. How do you call the __str__ method?
+
+Answer: pass an object as an argument to print the method

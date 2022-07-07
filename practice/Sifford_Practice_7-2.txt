@@ -1,0 +1,18 @@
+# Name - Brittany Sifford
+# Status - Complete
+# Description - Chapter checkpoints 7.9 - 7.14
+
+#7.9 Answer: [2,3]
+
+#7.10 Answer: [2, 3, 4, 5]
+
+#7.11 Answer: [1]
+
+#7.12 Answer: [1, 2, 3, 4, 5]
+
+#7.13 Answer: [3, 4, 5]
+
+#7.14 Answer: 
+    Jasmine's family:
+    ['Jim', 'Jill', 'John', 'Jasmine']
+
